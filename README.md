@@ -43,6 +43,6 @@ My name is Matteo Benigni, a junior data scientist and python developer from Cam
 
 ## ⚡ Fun fact
 
-- [FUN FACT]
+- [AHAHAHAH!]
 
-<!--- AHAHAHAH! -->
+
