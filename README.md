@@ -6,8 +6,8 @@ My name is Matteo Benigni, a junior data scientist and python developer from Cam
 
 ## 🔭 Current Projects
 
-- [PROJECT 1](LINK): DESCRIPTION
-- [PROJECT 2](LINK): DESCRIPTION
+- [PROJECT 1](LINK): finance_calculators.py: This program offers two financial calculators for the user: investment and home loan.
+- [PROJECT 2](LINK): holiday.py.
 - [PROJECT 3](LINK): DESCRIPTION
 
 ## 🌱 I’m currently learning
