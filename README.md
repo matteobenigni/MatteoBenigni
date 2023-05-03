@@ -7,7 +7,7 @@ My name is Matteo Benigni, a junior data scientist and python developer from Cam
 ## 🔭 Current Projects
 
 - [PROJECT 1](https://github.com/matteobenigni/finalCapstone/tree/main/project1): finance_calculators.py: this program offers two financial calculators for the user: investment and home loan.
-- [PROJECT 2](LINK): holiday.py: partial system for a small travel agency.
+- [PROJECT 2](https://github.com/matteobenigni/finalCapstone/tree/main/project2): holiday.py: partial system for a small travel agency.
 
 ## 🌱 Skills
 
