@@ -25,28 +25,24 @@ My name is Matteo Benigni, a junior data scientist and python developer from Cam
 
 ## 👯 I’m looking to collaborate on
 
-- [PROJECT IDEA](LINK)
-- [PROJECT IDEA](LINK)
-- [PROJECT IDEA](LINK)
+- New projects, Ideas
 
 ## 💬 Ask me about
 
-- [TOPIC 1](LINK)
-- [TOPIC 2](LINK)
-- [TOPIC 3](LINK)
+- Wellbeing
+- Movies
 
 ## 📫 How to reach me
 
-- [EMAIL](mailto:EMAIL)
-- [LINKEDIN](LINK)
-- [WEBSITE](LINK)
+- [EMAIL](mailto:workfm2020@gmail.com)
+- [LINKEDIN](https://www.linkedin.com/in/matteo-benigni-/)
 
 ## 😄 Pronouns
 
-- [HE/SHE/THEY]
+- [HE]
 
 ## ⚡ Fun fact
 
 - [FUN FACT]
 
-<!--- Add footer here -->
+<!--- AHAHAHAH! -->
